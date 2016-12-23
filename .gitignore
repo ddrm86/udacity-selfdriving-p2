@@ -5,3 +5,4 @@ models
 *.swp
 *.p
 p2.py
+.idea
